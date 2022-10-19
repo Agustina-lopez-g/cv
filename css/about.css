@@ -1,0 +1,86 @@
+
+body {
+    font-family: 'Merriweather', serif;
+    margin: 0px;
+}
+
+.row {
+    display: flex;
+    clear: both;
+}
+.columnLeft{
+    float: left;
+    width: 30vw;
+    padding: 10px;
+    height: 100vh; 
+    background-color: #005677;
+}
+
+.columnRigth{
+    float: right;
+    width: 100vw;
+    padding: 10px;
+    height: 100vh; 
+    background-color: rgb(255, 255, 255);
+}
+
+.face  {
+    width: 50%;
+    height: 50%;
+    border-radius: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+}
+
+.nombre{
+text-align: center;
+text-shadow: 2px 4px 10px rgb(52, 48, 48);
+color: rgb(224, 223, 223);
+font-size: 30px;
+margin-bottom: 20px;
+}
+
+.estudio {
+    text-align: center;
+    font-size:15px;
+    color: rgb(224, 223, 223);
+}
+
+.iconos{
+    text-align: center;
+    font-size: 30px;
+    color: aliceblue;
+    margin-top: 100px;
+}
+
+.about{
+margin-left:100px;
+margin-top:50px;
+font-size: 25px;
+color: rgb(228, 13, 128);
+letter-spacing: 8px;
+}
+
+.yo{
+    margin-left: 100px; 
+    margin-right: 20%;
+    margin-top: 60px;
+    font-size: 15px;
+    text-align: justify;
+    line-height: 1.6;
+    color: rgb(98, 95, 95);
+    text-indent: 40px;
+} 
+
+.datos{
+    margin-left: 100px; 
+    margin-top: 90px;
+    color: rgb(98, 95, 95); 
+    line-height: 2;
+    font-size: 15px;
+}
+    
+
+
